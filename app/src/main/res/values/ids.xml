@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewProcessed" type="id" />
+    <item name="textViewOriginal" type="id" />
+    <item name="seekBarLabelStepSize" type="id" />
+    <item name="seekBarStepSize" type="id" />
+    <item name="seekBarThreshold1" type="id" />
+</resources>
